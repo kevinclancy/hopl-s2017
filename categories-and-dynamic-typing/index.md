@@ -1,12 +1,8 @@
 # Categorical Semantics for Dynamically Typed Languages
 
-I will try to explain 
-1. What I mean by categorical semantics and how it differs from
-   denotational semantics.
-2. What I mean by the difference between *untyped* and *dynamically
-   typed* languages.
-3. How some of these ideas came about historically.
-
-Also I want to emphasize what is relevant about these ideas today and
-to my own research in gradual typing and compiler correctness, rather
-than what was seen as important then.
+Outline
+1. Scott '69: Funny quotes and his philosophy of semantics: what's a
+   model of typed lambda calculus? Eta equality is crucial
+2. Scott 72,74, Plotkin 76: Models of Untyped lambda calculus: D_infty, P_ω, T^ω 
+3. Lambek 86, actually 80 (68,69,72): From λ-calculus to CCC 
+4. Scott 80, Hayashi : Karoubi Envelope
